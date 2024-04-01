@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakshi07581
-- 👀 I’m interested in ..
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning MernStack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
