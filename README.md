@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakshi07581
 - 👀 I’m interested in web development and UI/UX design
-- 🌱 I’m currently web development and UI/UX design
+- 🌱 I’m currently Learning web development and UI/UX design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She/her
